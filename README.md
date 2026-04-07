@@ -18,7 +18,7 @@ Este é o meu primeiro projeto autoral em Python, desenvolvido enquanto estudo o
 O sistema simula o inventário de um personagem de RPG, permitindo que o usuário insira o nome de um item e a sua respectiva quantidade.
 
 ## 💻 Tecnologias Utilizadas
-* [cite_start]**Python 3**: Linguagem principal. 
+* **Python 3**: Linguagem principal. 
 * **VS Code**: Ambiente de desenvolvimento.
 * **Git/GitHub**: Controle de versão e portfólio.
 
