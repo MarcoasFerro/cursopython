@@ -1,0 +1,6 @@
+item = input('digite o nome do item:')
+quant = input('digite a quantidade de itens:')
+print('-' * 20)
+print(f'SISTEMA DE INVEMTARIO')
+print('você tem', item, 'e tem', quant, 'deles/as')
+print('-' * 20)
