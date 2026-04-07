@@ -1,0 +1,6 @@
+item = input('digite o nome do item: ')
+quant = int(input('digite a quantidade dos itens: '))
+print('-' * 20)
+print(f'SISTEMA DE INVENTARIO')
+print('você tem o item {} e tem {} deles/as' .format(item, quant))
+print('-' * 20)
