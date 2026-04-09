@@ -1,0 +1,7 @@
+n1 = int(input('digite um valor: '))
+print('=' * 20)
+n2 = int(input('digite outro valor: '))
+print('=' * 20)
+print(f'a soma entre eles é {n1 + n2} e a multiplicação é {n1 * n2} e a divisão é {n1 / n2 :.3f}')
+print('=' * 20)
+print(f'divisão inteira é {n1 // n2} e a potência é {n1 ** n2}')

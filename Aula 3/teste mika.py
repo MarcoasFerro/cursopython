@@ -1,0 +1,1 @@
+print(f'a media é {(float(input('nota 1: ')) + float(input('nota 2: '))) / 2:.1f}')
